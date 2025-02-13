@@ -6,9 +6,9 @@
 
 ## 🚀 About Me
 - 🎓 Computer Science student at SRM University  
-- 🌍 Building **Urban Scale** to help in location-based decision-making  
+- 🌍 Building **Urban Scale** to help in location-based decision-making with @mvishok 
 - ⚡ Passionate about **UI/UX Design & Full Stack Development**  
-- 🎯 Currently working on **InspireUI** (a UI/UX design template platform)
+- 🎯 Currently working as a Designer in LIFTOFF Club
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
@@ -20,7 +20,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
 
 ## 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dhruvmendiratta2005&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
