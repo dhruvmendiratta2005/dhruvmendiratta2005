@@ -20,7 +20,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
 
 ## ❤️ Socials
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/dhruvmendiratta2005/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
