@@ -21,11 +21,11 @@
 
 ## ❤️ Socials
 <p align="left">
-  <a href="https://www.linkedin.com/in/dhruvmendiratta2005/" target="_blank">
+  <a href="https://www.linkedin.com/in/dhruv-mendiratta-b2251a2a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
-  <a href="https://www.instagram.com/dhruvmendiratta2005/" target="_blank">
+  <a href="https://www.instagram.com/its_the_lost_wanderer/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
