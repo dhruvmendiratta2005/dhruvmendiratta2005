@@ -19,10 +19,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
 
-## 📊 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvmendiratta2005&show_icons=true&theme=radical" alt="GitHub Stats" />
-  
+## ❤️ Socials
+<p align="center">
   <a href="https://www.linkedin.com/in/dhruvmendiratta2005/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -32,5 +30,10 @@
   </a>
 </p>
 
-## 🎮 Snake Game Animation  
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvmendiratta2005&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+ 
 ![GitHub Snake Animation](https://github.com/dhruvmendiratta2005/dhruvmendiratta2005/blob/output/github-contribution-grid-snake.svg)
