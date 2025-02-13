@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dhruv Mendiratta 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhruvmendiratta&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=dhruvmendiratta2005&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ## 🚀 About Me
@@ -19,10 +19,18 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dhruvmendiratta2005&show_icons=true&theme=radical" alt="GitHub Stats" />
+  
+  <a href="https://www.linkedin.com/in/dhruvmendiratta2005/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  
+  <a href="https://www.instagram.com/dhruvmendiratta2005/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
 
-## 🎮 Snake Game Animation
+## 🎮 Snake Game Animation  
 ![GitHub Snake Animation](https://github.com/dhruvmendiratta2005/dhruvmendiratta2005/blob/output/github-contribution-grid-snake.svg)
