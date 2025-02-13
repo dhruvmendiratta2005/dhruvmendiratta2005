@@ -5,7 +5,8 @@
 </p>
 
 ## 🚀 About Me
-- 🎓 Computer Science student at SRM University  
+- 🎓 Computer Science student at SRM University
+- Ex Intern at AIESEC Chennai (IGT dept)  
 - 🌍 Building **Urban Scale** to help in location-based decision-making with @mvishok 
 - ⚡ Passionate about **UI/UX Design & Full Stack Development**  
 - 🎯 Currently working as a Designer in LIFTOFF Club
