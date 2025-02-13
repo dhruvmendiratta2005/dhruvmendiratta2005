@@ -25,4 +25,4 @@
 </p>
 
 ## 🎮 Snake Game Animation
-![GitHub Snake Animation](https://github.com/dhruvmendiratta/dhruvmendiratta/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://github.com/dhruvmendiratta2005/dhruvmendiratta2005/blob/output/github-contribution-grid-snake.svg)
