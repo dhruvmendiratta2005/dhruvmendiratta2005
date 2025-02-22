@@ -9,7 +9,7 @@
 - Ex Intern at AIESEC Chennai (IGT dept)  
 - 🌍 Building **Urban Scale** to help in location-based decision-making with @mvishok 
 - ⚡ Passionate about **UI/UX Design & Full Stack Development**  
-- 🎯 Currently working as a Designer in LIFTOFF Club
+- 🎯 Currently working as a Designer in LIFTOFF Club 
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
